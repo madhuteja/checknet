@@ -4,9 +4,9 @@ A simple library to check android network status.
 
 ## Download
 
-Gradle
-```groovy
-
+###Gradle
+```
+//TODO
 ```
 
 ## How to use?
