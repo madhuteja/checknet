@@ -4,7 +4,7 @@ A simple library to check android network status.
 
 ## Download
 
-###Gradle
+### Gradle
 ```
 //TODO
 ```
