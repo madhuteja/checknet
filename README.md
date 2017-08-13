@@ -6,7 +6,7 @@ A simple library to check android network status.
 
 ### Gradle
 ```
-//TODO
+compile 'com.madhuteja.checknet:checknet:0.1.0'
 ```
 
 ## How to use?
